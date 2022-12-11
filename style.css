@@ -1,0 +1,34 @@
+body{
+    background-color:hsl(0, 0%, 100%);
+    background-color:hsl(212, 45%, 89%);
+}
+.main_class{
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    display: inline-block;
+    border-radius: 5%;
+    background-color:white;
+}
+.container{
+    margin-right: 20%;
+    margin-top: 10%;
+    text-align: center;
+}
+p{
+    font-size:12px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.pic{
+    height: 260px;
+    width: 260px;
+    background-image: url(./img/image-qr-code.png);
+    background-size: contain;
+    margin-top:15px;
+    margin-left:19px;
+    position: relative;
+    border-radius:5%;
+    text-align: center;
+}
